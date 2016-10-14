@@ -1,6 +1,7 @@
 package model;
 
 public class Author {
+	private String aaa;
 	private String AuthorID;
 	private String Name;
 	private String Age;
